@@ -1,0 +1,12 @@
+D:\HYESolutions\Website\HyeSolutions\Shared\bin\Debug\net6.0\HyeSolutions.Shared.deps.json
+D:\HYESolutions\Website\HyeSolutions\Shared\bin\Debug\net6.0\HyeSolutions.Shared.dll
+D:\HYESolutions\Website\HyeSolutions\Shared\bin\Debug\net6.0\ref\HyeSolutions.Shared.dll
+D:\HYESolutions\Website\HyeSolutions\Shared\bin\Debug\net6.0\HyeSolutions.Shared.pdb
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.csproj.AssemblyReference.cache
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.AssemblyInfoInputs.cache
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.AssemblyInfo.cs
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.csproj.CoreCompileInputs.cache
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.dll
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\ref\HyeSolutions.Shared.dll
+D:\HYESolutions\Website\HyeSolutions\Shared\obj\Debug\net6.0\HyeSolutions.Shared.pdb

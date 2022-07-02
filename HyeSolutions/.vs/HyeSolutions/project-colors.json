@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da809d5d-68f3-48b0-be26-83de2ed82d01": {
+      "ProjectGuid": "da809d5d-68f3-48b0-be26-83de2ed82d01",
+      "DisplayName": "HyeSolutions.Client",
+      "ColorIndex": 0
+    },
+    "dc200c2b-a66d-460e-9281-ccde69b2b515": {
+      "ProjectGuid": "dc200c2b-a66d-460e-9281-ccde69b2b515",
+      "DisplayName": "HyeSolutions.Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
